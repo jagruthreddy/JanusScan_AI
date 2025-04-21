@@ -14,8 +14,7 @@ matplotlib==3.8.2
 scipy==1.11.4
 requests==2.31.0
 # C2PA and content credentials verification
-c2pa==0.3.2
-pyjumbf==0.2.1
+c2pa
 cryptography==41.0.3
-pycontent-authenticator==0.1.4
+pyauthenticator
 pytesseract==0.3.10
